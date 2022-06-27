@@ -6,7 +6,7 @@
 The project was performed on YCB-Video dataset of Power Drills. 
 
 Project Report:
-[Camera_pose_project.pdf] (https://github.com/deszczowaa/Residual-Attention-Network/blob/main/Camera_pose_project.pdf)
+[Camera_pose_project.pdf](https://github.com/deszczowaa/Residual-Attention-Network/blob/main/Camera_pose_project.pdf)
 
 The [Dir](https://github.com/deszczowaa/Residual-Attention-Network/tree/main/Dir) directory contains:
 - Data-YCB.zip - dataset
