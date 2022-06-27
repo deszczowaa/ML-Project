@@ -14,5 +14,4 @@ The [Dir](https://github.com/deszczowaa/Residual-Attention-Network/tree/main/Dir
 - Module/Logs2 - data used in visualization in TensorBoard
 
 
-Link to original repository of Residual Attention Network: 
-https://github.com/Jay4869/Deep-Learning
+[Link to original repository of Residual Attention Network](https://github.com/Jay4869/Deep-Learning)
