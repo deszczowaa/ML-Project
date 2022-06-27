@@ -5,7 +5,8 @@
 
 The project was performed on YCB-Video dataset of Power Drills. 
 
-[Project Report] (https://github.com/deszczowaa/Residual-Attention-Network/blob/main/Camera_pose_project.pdf)
+Project Report:
+[Camer_pose_project] (https://github.com/deszczowaa/Residual-Attention-Network/blob/main/Camera_pose_project.pdf)
 
 The [Dir](https://github.com/deszczowaa/Residual-Attention-Network/tree/main/Dir) directory contains:
 - Data-YCB.zip - dataset
@@ -14,4 +15,5 @@ The [Dir](https://github.com/deszczowaa/Residual-Attention-Network/tree/main/Dir
 - Module/Logs2 - data used in visualization in TensorBoard
 
 
-[Link to original repository of Residual Attention Network] (https://github.com/Jay4869/Deep-Learning)
+Link to original repository of Residual Attention Network: 
+https://github.com/Jay4869/Deep-Learning
