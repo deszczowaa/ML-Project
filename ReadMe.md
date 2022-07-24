@@ -1,4 +1,4 @@
-# Adaptation of Residual Attention NEtwork in task of camera pose estimation
+# Adaptation of Residual Attention Network in task of camera pose estimation
 ## AGH, Machine Learning Project 2022
 
 #### Adapted by: Maja Szrubarczyk, Jakub Skulski
